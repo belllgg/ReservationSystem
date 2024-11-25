@@ -20,7 +20,9 @@ cd reservation-system
 2. Construir y Ejecutar los Contenedores con Docker Compose
 Asegúrate de estar en la raíz del proyecto donde se encuentra el archivo docker-compose.yml. Luego, ejecuta el siguiente comando para construir y ejecutar ambos contenedores (frontend y backend):
 
-docker-compose up --build
+docker-compose build
+docker-compose up
+
 Este comando realiza lo siguiente:
 Construye las imágenes de los contenedores para el frontend y el backend.
 Levanta ambos servicios en contenedores Docker.

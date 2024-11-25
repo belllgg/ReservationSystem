@@ -3085,11 +3085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maribel Gomez\\Documents\\ReservationSystem\\backend\\ReservationSystem.Data\\ReservationSystem.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Maribel Gomez\\Documents\\VIP\\ReservationSystem\\backend\\ReservationSystem.Data\\ReservationSystem.Data.csproj",
       "projectName": "ReservationSystem.Data",
-      "projectPath": "C:\\Users\\Maribel Gomez\\Documents\\ReservationSystem\\backend\\ReservationSystem.Data\\ReservationSystem.Data.csproj",
+      "projectPath": "C:\\Users\\Maribel Gomez\\Documents\\VIP\\ReservationSystem\\backend\\ReservationSystem.Data\\ReservationSystem.Data.csproj",
       "packagesPath": "C:\\Users\\Maribel Gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maribel Gomez\\Documents\\ReservationSystem\\backend\\ReservationSystem.Data\\obj\\",
+      "outputPath": "C:\\Users\\Maribel Gomez\\Documents\\VIP\\ReservationSystem\\backend\\ReservationSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
