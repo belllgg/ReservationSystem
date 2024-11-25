@@ -1,0 +1,14 @@
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\bin\Debug\net9.0\ReservationSystem.Data.deps.json
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\bin\Debug\net9.0\ReservationSystem.Data.runtimeconfig.json
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\bin\Debug\net9.0\ReservationSystem.Data.dll
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\bin\Debug\net9.0\ReservationSystem.Data.pdb
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.AssemblyInfo.cs
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.dll
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\refint\ReservationSystem.Data.dll
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.pdb
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ReservationSystem.Data.genruntimeconfig.cache
+C:\Users\Maribel Gomez\Documents\ReservationSystem\backend\ReservationSystem.Data\obj\Debug\net9.0\ref\ReservationSystem.Data.dll
