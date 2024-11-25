@@ -24,7 +24,9 @@ docker-compose build
 
 docker-compose up
 
-Este comando realiza lo siguiente:
+Ejecutar ambos comandos
+
+Estos comandos realiza lo siguiente:
 Construye las imágenes de los contenedores para el frontend y el backend.
 Levanta ambos servicios en contenedores Docker.
 
