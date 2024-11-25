@@ -4,9 +4,13 @@ Código fuente del servicio backend:
 Implementa los siguientes endpoints REST en el controlador de reservas:
 
 GET /api/Reservations/viewing: Obtiene todas las reservas
+
 GET /api/Reservations/viewing/{id}: Obtiene una reserva por ID
+
 POST /api/Reservations/booking: Crea una nueva reserva
+
 PUT /api/Reservations/modifying/{id}: Actualiza una reserva existente
+
 DELETE /api/Reservations/cancelling/{id}: Elimina una reserva
 
 ## Ejecutar
