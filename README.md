@@ -21,6 +21,7 @@ cd reservation-system
 Asegúrate de estar en la raíz del proyecto donde se encuentra el archivo docker-compose.yml. Luego, ejecuta el siguiente comando para construir y ejecutar ambos contenedores (frontend y backend):
 
 docker-compose build
+
 docker-compose up
 
 Este comando realiza lo siguiente:
